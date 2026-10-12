@@ -1,0 +1,353 @@
+Name;Gebirge;Gebirgsgruppen;Land;Region;Höhe;Steigung;Straßenbelag;Länge;Höhendifferenz;Art :(breit-schmal);Straßennummer;Tal
+Achenpass;Alpen;Karwendel;DE / AT;Bayern / Tirol;941 m;;Asphalt;;501 m;zweispurig;B13 / B181;Tegernsee / Maurach
+Ajdovšcina;Alpen;Julische Alpen;SI;Goriška;106 m;;Asphalt;;80 m;zweispurig;107;Vipava / Ajdovšcina
+Albulapass;Alpen;Albula-Alpen;CH;Graubünden;2312 m;;Asphalt;;1462 m;zweispurig;417;Tiefencastel / La Punt
+Alpl;Alpen;Alpsteingebirge;AT;Steiermark;1070 m;;Asphalt;;430 m;zweispurig;L114;Krieglach / Birkfeld
+Ammersattel;Alpen;Ammergauer Alpen;DE / AT;Bayern / Tirol;1118 m;;Asphalt;;288 m;zweispurig;L255 / St2060;Ettal / Reutte
+Annaberg;Alpen;Salzburger Schieferalpen;AT;Niederösterreich;976 m;;Asphalt;;436 m;zweispurig;B20;Türnitz / Mariazell
+Arlbergpass;Alpen;Lechquellengebirge;AT;Tirol / Vorarlberg;1793 m;;Asphalt;;509 m;zweispurig;B197;St. Anton / Stuben
+Ascher Pass;Alpen;Lechtaler Alpen;AT;Tirol;1340 m;;Asphalt;;480 m;zweispurig;L318;Brandenberg / Münster
+Bielerhöhe (Silvretta);Alpen;Silvretta;AT;Vorarlberg / Tirol;2037 m;;Asphalt;;1467 m;schmal / einspurig;B188;Partenen / Galtür
+Birkfelder Gscheid;Alpen;Silvretta;AT;Steiermark;1020 m;;Asphalt;;440 m;zweispurig;L117;Birkfeld / Mürzsteg
+Bocchetta di Sant`Àntonio;Alpen;Fischbacher Alpen;IT;Lombardei;630 m;;Asphalt;;410 m;zweispurig;SP23;Laveno / Cuvio
+Bohinjsko sedlo;Alpen;Luganer Voralpen;SI;Gorenjska;1277 m;;Asphalt;;770 m;schmal / einspurig;909;Bohinjsko Bistrica / Podbrdo
+Brandlucken;Alpen;Julische Alpen;AT;Steiermark;1132 m;;Asphalt;;672 m;zweispurig;L353;Weiz / Birkfeld
+Brennerpass;Alpen;Grazer Bergland;AT / IT;Tirol / Südtirol;1370 m;;Asphalt;;796 m;zweispurig;B182 / SS12;Innsbruck / Sterzing
+Brezer Joch;Alpen;Zillertaler Alpen;IT;Südtirol;1398 m;;Asphalt;;800 m;zweispurig;SP28;Fondo / Brez
+Brünigpass;Alpen;Lechtaler Alpen;CH;Bern / Obwalden;1008 m;;Asphalt;;542 m;zweispurig;H8;Meiringen / Giswil
+Buchauer Sattel;Alpen;Berner Alpen;AT;Steiermark;861 m;;Asphalt;;428 m;zweispurig;B117;Admont / St. Gallen
+Bühlhofer Höhe;Alpen;Kitzbüheler Alpen;DE;Baden-Württemberg;610 m;;Asphalt;;280 m;zweispurig;L536;Bühl / Ottersweier
+Cima Seppada;Alpen;Bayerische Voralpen;IT;Venetien;1290 m;;Asphalt;;550 m;schmal / einspurig;SR355;Santo Stefano / Sappada
+Col de Cou (1116);Alpen;Karnische Alpen;FR / CH;Auvergne-Rhône-Alpes / Wallis;1116 m;;Asphalt;;620 m;schmal / einspurig;D12;Samoëns / Champéry
+Col de Jambaz;Alpen;Chablais-Alpen;FR;Auvergne-Rhône-Alpes;1027 m;;Asphalt;;480 m;schmal / einspurig;D26;St. Jeoire / Bellevaux
+Col de la Croix;Alpen;Chablais-Alpen;FR;Auvergne-Rhône-Alpes;1778 m;;Asphalt;;1350 m;schmal / einspurig;D926;Bourg d'Oisans / St. Jean
+Col de la Ramaz;Alpen;Chablais-Alpen;FR;Auvergne-Rhône-Alpes;1619 m;;Asphalt;;980 m;zweispurig;D308;Mieussy / Taninges
+Col de lÈncrenaz;Alpen;Chablais-Alpen;FR;Auvergne-Rhône-Alpes;1433 m;;Asphalt;;620 m;zweispurig;D328;Taninges / Essert-Romand
+Col de Saxel;Alpen;Chablais-Alpen;FR;Auvergne-Rhône-Alpes;943 m;;Asphalt;;510 m;schmal / einspurig;D20;Boëge / Bons-en-Chablais
+Col delle Bagole;Alpen;Chablais-Alpen;IT;Venetien;1120 m;;Asphalt;;800 m;schmal / einspurig;SP38;Arsiero / Posina
+Col des Gets;Alpen;Ligurische Alpen;FR;Auvergne-Rhône-Alpes;1170 m;;Asphalt;;580 m;schmal / einspurig;D902;Taninges / Morzine
+Col des Mosses;Alpen;Chablais-Alpen;CH;Waadt;1445 m;;Asphalt;;880 m;schmal / einspurig;H11;Aigle / Château-d'Oex
+Col du Corbier;Alpen;Berner Alpen;FR;Auvergne-Rhône-Alpes;1237 m;;Asphalt;;650 m;zweispurig;D32;Le Biot / Abondance
+Col du Feu;Alpen;Chablais-Alpen;FR;Auvergne-Rhône-Alpes;1117 m;;Asphalt;;560 m;schmal / einspurig;D36;Lullin / Orcier
+Col du Pillon;Alpen;Chablais-Alpen;CH;Waadt / Bern;1546 m;;Asphalt;;1010 m;zweispurig;H11;Aigle / Gstaad
+Col Sant Angelo (Misurinasee);Alpen;Berner Alpen;IT;Venetien;1752 m;;Asphalt;;870 m;zweispurig;SR48;Auronzo / Cortina
+Col-Lokve-Cepovan-Lokovec-BHF Most na Soci;Alpen;Dinarisches Gebirge / Slowenisches Karstgebiet;SI;Goriška;920 m;;Asphalt;;740 m;zweispurig;609;Nova Gorica / Most na Soci
+Colle di Berbenno;Alpen;Bahnhof / Soca-Tal;IT;Lombardei;695 m;;Asphalt;;450 m;zweispurig;SP14;Almenno / Berbenno
+Colle di Caposelvino;Alpen;Bergamasker Alpen;IT;Lombardei;950 m;;Asphalt;;630 m;schmal / einspurig;SP28;Nembro / Selvino
+Colle di Zambla;Alpen;;IT;Lombardei;1264 m;;Asphalt;;760 m;schmal / einspurig;SP27;Serina / Oltre il Colle
+Colle Gallo;Alpen;;IT;Lombardei;763 m;;Asphalt;;460 m;schmal / einspurig;SP39;Albino / Gaverina
+Crni Vrh;Alpen;;SI;Goriška;1298 m;;Asphalt;;910 m;zweispurig;102;Godovic / Ajdovšcina
+Crnivec;Alpen;;SI;Savinjska;908 m;;Asphalt;;510 m;zweispurig;225;Kamnik / Gornji Grad
+Croce di Salven;Alpen;;IT;Lombardei;1109 m;;Asphalt;;880 m;zweispurig;SP5;Darfo / Borno
+Diex;Alpen;;AT;Kärnten;1159 m;;Asphalt;;730 m;zweispurig;L113;Völkermarkt / Brückl
+Dürrholzerkreuz;Alpen;;AT;Niederösterreich;800 m;;Asphalt;;380 m;zweispurig;L138;Waldegg / Hernstein
+Eibeggsattel;Alpen;;AT;Steiermark;1001 m;;Asphalt;;510 m;schmal / einspurig;L118;St. Jakob / Breitenau
+Erbsattel;Alpen;;AT;Steiermark;671 m;;Asphalt;;280 m;zweispurig;L705;St. Gallen / Großreifling
+Etzelpass;Alpen;;CH;Schwyz;950 m;;Asphalt;;530 m;zweispurig;387;Pfäffikon / Einsiedeln
+Falzerego Pass Südrampe (Caprese);Alpen;;IT;Venetien;2105 m;;Asphalt;;1120 m;zweispurig;SR48;Cortina / Caprile
+Falzerego Pass Westrampe (Arabba);Alpen;;IT;Venetien;2105 m;;Asphalt;;504 m;schmal / einspurig;SR48;Arabba / Cortina
+Faschinajoch;Alpen;;AT;Vorarlberg;1486 m;;Asphalt;;900 m;schmal / einspurig;L193;Damüls / Au
+Fedaia Pass;Alpen;;IT;Trentino / Venetien;2057 m;;Asphalt;;1050 m;zweispurig;SS641;Canazei / Caprile
+Feistritzsattel;Alpen;;AT;Niederösterreich / Steiermark;1287 m;;Asphalt;;710 m;schmal / einspurig;L175;Kirchberg / Rettenegg
+Fernpass;Alpen;;AT;Tirol;1216 m;;Asphalt;;380 m;zweispurig;B179;Nassereith / Reutte
+Filzensattel Hochkönig Straße und B164;Alpen;;AT;Salzburg;1291 m;;Asphalt;;540 m;zweispurig;B164;Dienten / Saalfelden
+Flattnitzer Höhe;Alpen;;AT;Kärnten;1400 m;;Asphalt;;800 m;zweispurig;L63;Glödnitz / Murau
+Flexenpass;Alpen;;AT;Vorarlberg;1773 m;;Asphalt;;320 m;zweispurig;B198;Stuben / Zürs
+Flüelepass;Alpen;;CH;Graubünden;2383 m;;Asphalt;;1190 m;zweispurig;H28;Davos / Susch
+Forcella di Bura;Alpen;;IT;Lombardei;884 m;;Asphalt;;420 m;zweispurig;SP24;Zogno / Brembilla
+Forcella di Lius;Alpen;;IT;Friaul-Julisch Venetien;1065 m;;Asphalt;;680 m;schmal / einspurig;SP23;Paularo / Paluzza
+Forcellino di Bianzano;Alpen;;IT;Lombardei;665 m;;Asphalt;;310 m;schmal / einspurig;SP40;Ranzanico / Bianzano
+Furkajoch;Alpen;;AT;Vorarlberg;1761 m;;Asphalt;;1180 m;schmal / einspurig;L51;Damüls / Laterns
+Furkapass;Alpen;;CH;Uri / Wallis;2429 m;;Asphalt;;1050 m;zweispurig;H19;Realp / Oberwald
+Furkelpass;Alpen;;IT;Südtirol;1759 m;;Asphalt;;740 m;zweispurig;SP43;Olang / St. Vigil
+Gaberl Pass;Alpen;;AT;Steiermark;1547 m;;Asphalt;;1100 m;schmal / einspurig;B77;Köflach / Weißkirchen
+Gadenweit Pass;Alpen;;AT;Niederösterreich;800 m;;Asphalt;;340 m;zweispurig;L134;Ternitz / Puchberg
+Gailbergsattel;Alpen;;AT;Kärnten;981 m;;Asphalt;;340 m;schmal / einspurig;B110;Kötschach / Oberdrauburg
+Gampenpass;Alpen;;IT;Südtirol;1518 m;;Asphalt;;1220 m;zweispurig;SS238;Lana / Fondo
+Gardasee Kammstraße (Ost);Alpen;;IT;Venetien;1550 m;;Asphalt;;1480 m;zweispurig;SP8;Caprino Veronese / Monte Baldo
+Gerichtsberg;Alpen;;AT;Niederösterreich;581 m;;Asphalt;;190 m;schmal / einspurig;B18;Hainfeld / Kaumberg
+Gerlospass;Alpen;;AT;Tirol / Salzburg;1531 m;;Asphalt;;956 m;zweispurig;B165;Zell am Ziller / Krimml
+Geschriebenstein;Alpen;;AT;Burgenland;884 m;;Asphalt;;560 m;zweispurig;B56;Lockenhaus / Rechnitz
+Giopo del Maniva;Alpen;;IT;Lombardei;1664 m;;Asphalt;;1240 m;schmal / einspurig;SP345;Collio / Bagolino
+Glaubenbergpass;Alpen;;CH;Obwalden / Luzern;1543 m;;Asphalt;;1070 m;zweispurig;362;Sarnen / Entlebuch
+Glaubenbielen;Alpen;;CH;Obwalden / Luzern;1611 m;;Asphalt;;1130 m;zweispurig;363;Giswil / Sörenberg
+Goletto di Gandio;Alpen;;IT;Lombardei;1500 m;;Asphalt;;900 m;zweispurig;SP345;Breno / Bagolino
+Gollersattel;Alpen;;AT;Niederösterreich;850 m;;Asphalt;;410 m;schmal / einspurig;L135;Güttenbach / Kernhof
+Gottardpass;Alpen;;CH;Uri / Tessin;2106 m;;Asphalt;;930 m;schmal / einspurig;H2;Andermatt / Airolo
+Grattinger Sattel;Alpen;;AT;Kärnten;820 m;;Asphalt;;360 m;zweispurig;L62;Guttaring / Klein St. Paul
+Griffner Berg;Alpen;;AT;Kärnten;708 m;;Asphalt;;310 m;schmal / einspurig;B70;Griffna / Völkermarkt
+Grimselspass;Alpen;;CH;Bern / Wallis;2164 m;;Asphalt;;1540 m;zweispurig;H6;Innertkirchen / Gletsch
+Große Kripp;Alpen;;AT;Niederösterreich;820 m;;Asphalt;;320 m;zweispurig;L98;Ybbsitz / Kienberg
+Großer Sakt Bernhard Pass;Alpen;;CH / IT;Wallis / Aostatal;2469 m;;Asphalt;;1980 m;zweispurig;H21 / SS27;Martigny / Aosta
+Großglocknerstraße;Alpen;;AT;Salzburg / Kärnten;2504 m;;Asphalt;;1691 m;zweispurig;B107;Fusch / Heiligenblut
+Grödnerjoch;Alpen;;IT;Südtirol;2121 m;;Asphalt;;580 m;zweispurig;SS243;Wolkenstein / Corvara
+Grünbacher Sattel;Alpen;;AT;Niederösterreich;678 m;;Asphalt;;280 m;zweispurig;B26;Puchberg / Neunkirchen
+Gunzenberg;Alpen;;AT;Kärnten;1020 m;;Asphalt;;480 m;schmal / einspurig;L67;Brückl / St. Veit
+Guringelpass;Alpen;;CH;Bern;1608 m;;Asphalt;;1020 m;schmal / einspurig;183;Riggisberg / Wattenwil
+Gutenmann;Alpen;;AT;Niederösterreich;820 m;;Asphalt;;360 m;schmal / einspurig;L132;Muggendorf / Pernitz
+Göger;Alpen;;AT;Niederösterreich;890 m;;Asphalt;;290 m;schmal / einspurig;L133;Kienberg / Gaming
+Hahntennjoch;Alpen;;AT;Tirol;1894 m;;Asphalt;;1040 m;schmal / einspurig;L246;Imst / Elmen
+Hals (Wildalpen);Alpen;;AT;Steiermark;870 m;;Asphalt;;380 m;zweispurig;L714;Wildalpen / Mariazell
+Hals , Pernitz-Berndorf;Alpen;;AT;Niederösterreich;662 m;;Asphalt;;350 m;schmal / einspurig;L138;Pernitz / Berndorf
+Hebalm;Alpen;;AT;Steiermark / Kärnten;1420 m;;Asphalt;;860 m;schmal / einspurig;L601;Deutschlandsberg / Preitenegg
+Hemberg;Alpen;;CH;St. Gallen;935 m;;Asphalt;;420 m;schmal / einspurig;8;Wattwil / Lichtensteig
+Hengstpass;Alpen;;AT;Oberösterreich / Steiermark;985 m;;Asphalt;;540 m;zweispurig;L550;Windischgarsten / Altenmarkt
+Hiaslegg;Alpen;;AT;Steiermark;1154 m;;Asphalt;;560 m;zweispurig;L111;Bruck an der Mur / Tragöß
+Hinterburger Sattel;Alpen;;AT;Kärnten;1120 m;;Asphalt;;520 m;zweispurig;L64;Klein St. Paul / Diex
+Hirschbichl-Pass (1183) 30% steil, Sackgasse;Alpen;;DE / AT;Bayern / Salzburg;1183 m;;Asphalt;;540 m;zweispurig;Gemeindestraße;Ramsau / Weißbach
+Hocheggersattel;Alpen;;AT;Kärnten;1320 m;;Asphalt;;680 m;schmal / einspurig;L68;Guttaring / Hüttenberg
+Hochrindl;Alpen;;AT;Kärnten;1617 m;;Asphalt;;920 m;zweispurig;L65;Feldkirchen / Ebene Reichenau
+Hochtannbergpass;Alpen;;AT;Vorarlberg;1676 m;;Asphalt;;820 m;zweispurig;B198;Schoppernau / Schrocken
+Hofmahdsattel;Alpen;;IT;Südtirol;1785 m;;Asphalt;;1200 m;zweispurig;SP86;St. Pankraz / Proveis
+Hselrast;Alpen;;AT;Steiermark;1100 m;;Asphalt;;490 m;zweispurig;L115;Trofaiach / Eisenerz
+Hulftegg;Alpen;;CH;St. Gallen / Zürich;954 m;;Asphalt;;420 m;schmal / einspurig;354;Steg / Mühlrüti
+Höhenstraße ( Stausee);Alpen;;AT;Niederösterreich;750 m;;Asphalt;;310 m;zweispurig;L171;Ottenstein / Zwettl
+Ibergeregg;Alpen;;CH;Schwyz;1406 m;;Asphalt;;890 m;schmal / einspurig;386;Schwyz / Oberiberg
+Idrija;Alpen;;SI;Goriška;334 m;;Asphalt;;180 m;zweispurig;102;Godovic / Idrija
+In der Luft Pass;Alpen;;AT;Niederösterreich;780 m;;Asphalt;;290 m;zweispurig;L136;Frankenfels / Scheibbs
+Iselsberg;Alpen;;AT;Tirol / Kärnten;1209 m;;Asphalt;;530 m;zweispurig;B107;Lienz / Winklern
+Jaufenpass;Alpen;;IT;Südtirol;2094 m;;Asphalt;;1184 m;schmal / einspurig;SS44;Sterzing / St. Leonhard
+Jaunpass;Alpen;;CH;Bern / Freiburg;1509 m;;Asphalt;;810 m;zweispurig;191;Boltigen / Charmey
+Josefsberg;Alpen;;AT;Niederösterreich;1012 m;;Asphalt;;480 m;zweispurig;B20;Lilienfeld / Mariazell
+Julierpass;Alpen;;CH;Graubünden;2284 m;;Asphalt;;1430 m;zweispurig;H3;Tiefencastel / Silvaplana
+Kaiserau;Alpen;;AT;Steiermark;1050 m;;Asphalt;;410 m;zweispurig;L713;Admont / Trieben
+Kaiserjägerstraße;Alpen;;IT;Trentino;1246 m;;Asphalt;;780 m;zweispurig;SP108;Caldonazzo / Lavarone
+Kalce-Col ( Potkraj);Alpen;;SI;Goriška;823 m;;Asphalt;;340 m;schmal / einspurig;609;Kalce / Ajdovšcina
+Karapass;Alpen;;SI;Goriška;1080 m;;Asphalt;;620 m;zweispurig;610;Tolmin / Kobarid
+Kartischer Sattel ( Lesachtal);Alpen;;AT;Tirol;1525 m;;Asphalt;;850 m;schmal / einspurig;B111;Tassenbach / Kötschach
+Katschberg;Alpen;;AT;Kärnten / Salzburg;1641 m;;Asphalt;;800 m;zweispurig;B99;Rennweg / St. Michael
+Kernhofer Gscheid;Alpen;;AT;Niederösterreich;970 m;;Asphalt;;420 m;zweispurig;B21;Kernhof / Mariazell
+Kesselberg;Alpen;;DE;Bayern;858 m;;Asphalt;;250 m;zweispurig;B11;Kochel / Walchensee
+Kladje;Alpen;;SI;Goriška;787 m;;Asphalt;;460 m;zweispurig;210;Cerkno / Žiri
+Klammhöhe;Alpen;;AT;Niederösterreich;618 m;;Asphalt;;260 m;zweispurig;L119;Hainfeld / Laaben
+Klausenpass;Alpen;;CH;Uri / Glarus;1948 m;;Asphalt;;1470 m;schmal / einspurig;H17;Altdorf / Linthal
+Kleiner Sankt Bernhard Pass;Alpen;;FR / IT;Auvergne-Rhône-Alpes / Aostatal;2188 m;;Asphalt;;1370 m;zweispurig;D1090 / SS26;Bourg-St-Maurice / Pré-St-Didier
+Klippitztörl;Alpen;;AT;Kärnten;1642 m;;Asphalt;;1120 m;zweispurig;L91;Lölling / Bad St. Leonhard
+Klostertaler Gscheid;Alpen;;AT;Niederösterreich;764 m;;Asphalt;;310 m;zweispurig;L28;Gutenstein / Puchberg
+Kniepass;Alpen;;AT;Salzburg;558 m;;Asphalt;;90 m;schmal / einspurig;B178;Unken / Lofer
+Koppenpass;Alpen;;AT;Steiermark / Oberösterreich;690 m;;Asphalt;;180 m;zweispurig;L547;Bad Aussee / Obertraun
+Kraxenberg;Alpen;;AT;Steiermark;1280 m;;Asphalt;;540 m;zweispurig;L112;Bruck an der Mur / St. Katharein
+Kreisstraße bis Località Ponte Antoi (schmale Straße);Alpen;;IT;Friaul-Julisch Venetien;580 m;;Asphalt;;320 m;zweispurig;SP28;Barcis / Ponte Antoi
+Kreiter Sattel;Alpen;;AT;Niederösterreich;820 m;;Asphalt;;320 m;zweispurig;L137;Schneeberggebiet / Schneeberggebiet
+Kreuzbergpass;Alpen;;AT;Kärnten;1074 m;;Asphalt;;480 m;zweispurig;B111;Hermagor / Greifenburg
+Kreuzbergsattel;Alpen;;IT;Südtirol / Venetien;1636 m;;Asphalt;;420 m;zweispurig;SS52;Innichen / Sexen
+Kühtaisattel;Alpen;;AT;Tirol;2017 m;;Asphalt;;1400 m;zweispurig;L13;Ötz / Sellrain
+Lahnsattel;Alpen;;AT;Steiermark / Niederösterreich;1015 m;;Asphalt;;430 m;zweispurig;B23;Mürzsteg / Terz
+Lanzenpass;Alpen;;IT;Friaul-Julisch Venetien;1552 m;;Asphalt;;950 m;zweispurig;SP24;Paularo / Pontebba
+Lenzerheidepass;Alpen;;CH;Graubünden;1549 m;;Asphalt;;980 m;zweispurig;H3;Chur / Tiefencastel
+Lienbachsattel ,Postalmstraße;Alpen;;AT;Salzburg;1304 m;;Asphalt;;810 m;zweispurig;Postalmstraße;Abtenau / Strobl
+Loiblpass;Alpen;;AT / SI;Kärnten / Gorenjska;1368 m;;Asphalt;;920 m;zweispurig;B91 / 101;Ferlach / Tržic
+Losenpass;Alpen;;AT;Vorarlberg;1139 m;;Asphalt;;690 m;schmal / einspurig;L48;Dornbirn / Bödele
+Masererpass;Alpen;;DE;Bayern;793 m;;Asphalt;;280 m;zweispurig;B305;Reit im Winkl / Unterwössen
+Mendelpass;Alpen;;IT;Südtirol / Trentino;1362 m;;Asphalt;;1020 m;zweispurig;SS42;Eppan / Fondo
+Mendlingpass;Alpen;;AT;Niederösterreich / Steiermark;680 m;;Asphalt;;260 m;zweispurig;B25;Göstling / Palfau
+Michaelskreuz;Alpen;;CH;Luzern;798 m;;Asphalt;;380 m;zweispurig;12;Root / Udligenswil
+Michelbühel;Alpen;;AT;Niederösterreich;750 m;;Asphalt;;240 m;zweispurig;L139;Lilienfeld / Hainfeld
+Moarigrabensattel;Alpen;;AT;Steiermark;1120 m;;Asphalt;;460 m;zweispurig;L113;Breitenau / St. Jakob
+Namlospass;Alpen;;AT;Tirol;1208 m;;Asphalt;;360 m;zweispurig;L21;Stanzach / Bichlbach
+Nassfeldpass;Alpen;;AT / IT;Kärnten / Friaul-Julisch Venetien;1530 m;;Asphalt;;930 m;zweispurig;B90 / SP110;Hermagor / Pontebba
+Niederalpl;Alpen;;AT;Steiermark;1221 m;;Asphalt;;480 m;zweispurig;L113;Mürzsteg / Wegscheid
+Nigerpass;Alpen;;IT;Südtirol;1688 m;;Asphalt;;1330 m;zweispurig;LS132;Blumau / Tiers
+Nockalmstraße;Alpen;;AT;Kärnten;2042 m;;Asphalt;;920 m;zweispurig;L68;Innerkrems / Ebene Reichenau
+Norbertshöhe;Alpen;;AT;Tirol;1405 m;;Asphalt;;360 m;zweispurig;B185;Nauders / Martinsbruck
+Norbertshöhe1;Alpen;;AT;Tirol;1405 m;;Asphalt;;360 m;zweispurig;B185;Nauders / Martinsbruck
+Obdacher Sattel;Alpen;;AT;Steiermark / Kärnten;955 m;;Asphalt;;290 m;zweispurig;B78;Zeltweg / Bad St. Leonhard
+Oberalppass;Alpen;;CH;Graubünden / Uri;2044 m;;Asphalt;;1190 m;zweispurig;H19;Andermatt / Disentis
+Oberjochpass;Alpen;;DE / AT;Bayern / Tirol;1178 m;;Asphalt;;340 m;zweispurig;B308 / B199;Bad Hindelang / Tannheim
+Ochsattel;Alpen;;AT;Niederösterreich;820 m;;Asphalt;;340 m;schmal / einspurig;L135;Kalte Kuchl / Rohr im Gebirge
+Ochsenheide;Alpen;;AT;Niederösterreich;580 m;;Asphalt;;160 m;zweispurig;L136;Leobersdorf / Berndorf
+Ossiacher Tauern;Alpen;;AT;Kärnten;880 m;;Asphalt;;380 m;zweispurig;L47;Ossiach / Feldkirchen
+Packsattel;Alpen;;AT;Steiermark / Kärnten;1169 m;;Asphalt;;710 m;zweispurig;B70;Köflach / Twimberg
+Panidersattel;Alpen;;IT;Südtirol;1437 m;;Asphalt;;810 m;zweispurig;SS242;Waidbruck / Kastelruth
+Paso Sant`Eusebio;Alpen;;IT;Lombardei;570 m;;Asphalt;;330 m;zweispurig;SS237;Brescia / Odolo
+Pass Ciampigotto;Alpen;;IT;Venetien;1790 m;;Asphalt;;1050 m;zweispurig;SP619;Lozzo / Sauris
+Pass Grießen;Alpen;;AT;Salzburg / Tirol;975 m;;Asphalt;;190 m;zweispurig;B164;Saalfelden / Fieberbrunn
+Pass Gschütt;Alpen;;AT;Salzburg / Oberösterreich;957 m;;Asphalt;;440 m;zweispurig;B166;Russbach / Gosau
+Pass Thurn;Alpen;;AT;Salzburg / Tirol;1274 m;;Asphalt;;480 m;zweispurig;B161;Kitzbühel / Mittersill
+Passo Bordala;Alpen;;IT;Trentino;1250 m;;Asphalt;;1040 m;zweispurig;SP88;Rovereto / Ronzo-Chienis
+Passo Brocon;Alpen;;IT;Trentino;1616 m;;Asphalt;;1220 m;zweispurig;SP79;Castello Tesino / Canal San Bovo
+Passo Campo Carlo Mango;Alpen;;IT;Trentino;1682 m;;Asphalt;;900 m;zweispurig;SS239;Pinzolo / Dimaro
+Passo Campolongo;Alpen;;IT;Südtirol / Venetien;1875 m;;Asphalt;;340 m;zweispurig;SS244;Corvara / Arabba
+Passo Cereda;Alpen;;IT;Trentino;1369 m;;Asphalt;;620 m;zweispurig;SS347;Fiera di Primiero / Agordo
+Passo Cibiana;Alpen;;IT;Venetien;1530 m;;Asphalt;;1010 m;zweispurig;SP347;Forno di Zoldo / Venas
+Passo Cimabanche;Alpen;;IT;Südtirol / Venetien;1530 m;;Asphalt;;310 m;zweispurig;SS51;Toblach / Cortina
+Passo Coe ( kleine Straße );Alpen;;IT;Trentino;1610 m;;Asphalt;;1250 m;zweispurig;SP143;Folgaria / Arsiero
+Passo Croce d`Aune V1;Alpen;;IT;Venetien;1015 m;;Asphalt;;710 m;zweispurig;SP1;Feltre / Pedavena
+Passo Croce d`Aune V2;Alpen;;IT;Venetien;1015 m;;Asphalt;;710 m;zweispurig;SP1;Feltre / Pedavena
+Passo dal Fuorn, N.N., (Ofenpass);Alpen;;CH;Graubünden;2149 m;;Asphalt;;1260 m;zweispurig;H28;Zernez / Santa Maria
+Passo del Bernina;Alpen;;CH / IT;Graubünden / Lombardei;2328 m;;Asphalt;;1890 m;zweispurig;H29;Pontresina / Tirano
+Passo del Branchetto;Alpen;;IT;Venetien;1580 m;;Asphalt;;780 m;zweispurig;SP6;Bosco Chiesanuova / Erbezzo
+Passo del Capriolo;Alpen;;IT;Trentino;1340 m;;Asphalt;;620 m;zweispurig;SP102;Rovereto / Brentonico
+Passo del Compet (Höhenstraße);Alpen;;IT;Trentino;1380 m;;Asphalt;;840 m;zweispurig;SP11;Pergine / Levico
+Passo del Durone;Alpen;;IT;Trentino;1029 m;;Asphalt;;460 m;zweispurig;SS237;Tione / Bleggio
+Passo del Praderadeqo;Alpen;;IT;Venetien;910 m;;Asphalt;;730 m;zweispurig;SP635;Trichiana / Cison di Valmarino
+Passo del Predil;Alpen;;SI / IT;Goriška / Friaul-Julisch Venetien;1156 m;;Asphalt;;630 m;zweispurig;203 / SS54;Bovec / Tarvisio
+Passo del Pura (Sauris);Alpen;;IT;Friaul-Julisch Venetien;1428 m;;Asphalt / Schotter;;890 m;zweispurig;SP73;Ampezzo / Sauris
+Passo del Redebus;Alpen;;IT;Trentino;1453 m;;Asphalt;;910 m;zweispurig;SP83;Baselga di Piné / Bedollo
+Passo del Termine;Alpen;;IT;Lombardei;710 m;;Asphalt;;430 m;zweispurig;SP23;Luino / Cuvio
+Passo del Tonale (Tonalepass);Alpen;;IT;Lombardei / Trentino;1883 m;;Asphalt;;1020 m;zweispurig;SS42;Ponte di Legno / Dimaro
+Passo del Vivione;Alpen;;IT;Lombardei;1828 m;;Asphalt;;1110 m;zweispurig;SP294;Schilpario / Paisco
+Passo dell Ampola;Alpen;;IT;Trentino;747 m;;Asphalt;;680 m;zweispurig;SS240;Riva del Garda / Storo
+Passo della Borcola;Alpen;;IT;Trentino / Venetien;1207 m;;Asphalt;;1030 m;zweispurig;SP89;Rovereto / Posina
+Passo della Crocetta;Alpen;;IT;Lombardei;1270 m;;Asphalt;;620 m;zweispurig;SP28;Selvino / Aviatico
+Passo della Forcella;Alpen;;IT;Lombardei;1400 m;;Asphalt / Schotter;;720 m;zweispurig;SP27;Zambla / Oltre il Colle
+Passo della Mauria;Alpen;;IT;Venetien / Friaul-Julisch Venetien;1298 m;;Asphalt;;780 m;zweispurig;SS52;Lozzo / Forni di Sopra
+Passo della Presolana;Alpen;;IT;Lombardei;1297 m;;Asphalt;;760 m;zweispurig;SS671;Clusone / Dezzo
+Passo della Vena di Spora;Alpen;;IT;Trentino;1410 m;;Asphalt;;650 m;zweispurig;SP213;Andalo / Spormaggiore
+Passo delle Fittanze della Seqa;Alpen;;IT;Venetien / Trentino;1393 m;;Asphalt;;1160 m;zweispurig;SP14;Erbezzo / Sdruzzinà
+Passo del`lÀprica;Alpen;;IT;Lombardei;1176 m;;Asphalt;;780 m;zweispurig;SS39;Edolo / Tresenda
+Passo di Gavia;Alpen;;IT;Lombardei;2621 m;;Asphalt;;1396 m;zweispurig;SP29;Ponte di Legno / Bormio
+Passo di Giau;Alpen;;IT;Venetien;2236 m;;Asphalt;;1250 m;zweispurig;SP638;Cortina / Caprile
+Passo di Lavace;Alpen;;IT;Südtirol / Trentino;1808 m;;Asphalt;;1120 m;zweispurig;SS620;Bozen / Cavalese
+Passo di Monte Fae;Alpen;;IT;Lombardei;1250 m;;Asphalt;;710 m;zweispurig;SP12;Vobarno / Idro
+Passo di Pramadiccio;Alpen;;IT;Trentino;1431 m;;Asphalt;;430 m;zweispurig;SP215;Stava / Tesero
+Passo di Santa Cristina;Alpen;;IT;Lombardei;1427 m;;Asphalt;;580 m;zweispurig;SP39;Aprica / Tresenda
+Passo di Sant`Antonio;Alpen;;IT;Venetien;1476 m;;Asphalt;;620 m;zweispurig;SP532;Auronzo / Padola
+Passo di Valcava;Alpen;;IT;Lombardei;1340 m;;Asphalt;;980 m;zweispurig;SP179;Calolziocorte / Almenno
+Passo Duran;Alpen;;IT;Venetien;1601 m;;Asphalt;;1020 m;zweispurig;SP347;Agordo / Forno di Zoldo
+Passo Forcella Aurine;Alpen;;IT;Venetien;1299 m;;Asphalt;;680 m;zweispurig;SP347;Agordo / Gosaldo
+Passo Forcella Franche;Alpen;;IT;Venetien;992 m;;Asphalt;;380 m;zweispurig;SP2;Rivamonte / Agordo
+Passo Forcola di Liviqno;Alpen;;CH / IT;Graubünden / Lombardei;2315 m;;Asphalt;;1320 m;zweispurig;H29 / SO;Livigno / Poschiavo
+Passo Foscango;Alpen;;IT;Lombardei;2291 m;;Asphalt;;950 m;zweispurig;SS301;Bormio / Livigno
+Passo Manghen;Alpen;;IT;Trentino;2047 m;;Asphalt;;1630 m;zweispurig;SP31;Borgo Valsugana / Molina
+Passo Monte Bondone V1, NW bis NO;Alpen;;IT;Trentino;1650 m;;Asphalt;;1450 m;zweispurig;SP85;Trient / Sopramonte
+Passo Monte Bondone V2, SO bis SW;Alpen;;IT;Trentino;1650 m;;Asphalt;;1450 m;zweispurig;SP85;Trient / Lasino
+Passo Mortirolo;Alpen;;IT;Lombardei;1852 m;;Asphalt;;1300 m;zweispurig;SP81;Mazzo / Monno
+Passo Pozza della Cola;Alpen;;IT;Venetien;1220 m;;Asphalt;;720 m;zweispurig;SP15;Laghi / Arsiero
+Passo Predaia;Alpen;;IT;Trentino;1250 m;;Asphalt;;610 m;zweispurig;SP73;Coredo / Taio
+Passo Rest;Alpen;;IT;Friaul-Julisch Venetien;1052 m;;Asphalt;;740 m;zweispurig;SP52;Ampezzo / Tramonti
+Passo Rolle;Alpen;;IT;Trentino;1980 m;;Asphalt;;1130 m;zweispurig;SS50;Predazzo / Fiera di Primiero
+Passo San Boldo;Alpen;;IT;Venetien;706 m;;Asphalt;;460 m;zweispurig;SP635;Trichiana / Tovena
+Passo San Lugano-Sattel;Alpen;;IT;Südtirol / Trentino;1097 m;;Asphalt;;820 m;zweispurig;SS48;Auer / Cavalese
+Passo San Marco;Alpen;;IT;Lombardei;1992 m;;Asphalt;;1750 m;zweispurig;SP8;Morbegno / Olmo al Brembo
+Passo San Oswaldi;Alpen;;IT;Friaul-Julisch Venetien;827 m;;Asphalt;;380 m;zweispurig;SP21;Cimolais / Erto
+Passo San Pelleqrino;Alpen;;IT;Trentino / Venetien;1918 m;;Asphalt;;910 m;zweispurig;SS346;Moena / Falcade
+Passo San Rocco;Alpen;;IT;Venetien;1020 m;;Asphalt;;520 m;zweispurig;SP13;Bosco Chiesanuova / Grezzana
+Passo Sommo;Alpen;;IT;Trentino;1341 m;;Asphalt;;620 m;zweispurig;SS350;Folgaria / Carbonare
+Passo Tanamea;Alpen;;IT;Friaul-Julisch Venetien;851 m;;Asphalt;;480 m;zweispurig;SR356;Tarcento / Kobarid
+Passo Tri Corci;Alpen;;IT;Venetien;1805 m;;Asphalt;;820 m;zweispurig;SR48;Cortina / Misurina
+Passo Umbrail (Umbrailpass);Alpen;;CH / IT;Graubünden / Lombardei;2501 m;;Asphalt;;1120 m;zweispurig;H275;Santa Maria / Bormio
+Passo Valico di San Fermo;Alpen;;IT;Lombardei;1070 m;;Asphalt;;610 m;zweispurig;SP22;Sarnico / Adrara
+Passo Valles;Alpen;;IT;Trentino / Venetien;2032 m;;Asphalt;;880 m;zweispurig;SP81;Paneveggio / Falcade
+Passo Vezzena (Asiago);Alpen;;IT;Trentino / Venetien;1402 m;;Asphalt;;940 m;zweispurig;SS349;Caldonazzo / Asiago
+Passo Xomo;Alpen;;IT;Venetien;1058 m;;Asphalt;;680 m;zweispurig;SP80;Posina / Valli del Pasubio
+Passo Xon;Alpen;;IT;Venetien;671 m;;Asphalt;;380 m;zweispurig;SP46;Recoaro / Valli del Pasubio
+Passo Zovo;Alpen;;IT;Venetien;1608 m;;Asphalt;;780 m;zweispurig;SP532;Santo Stefano / Valle di Cadore
+Paulitschsattel;Alpen;;AT / SI;Kärnten / Savinjska;1338 m;;Asphalt;;820 m;zweispurig;L82;Bad Vellach / Solcava
+Penserjoch -  Passo Pennes;Alpen;;IT;Südtirol;2211 m;;Asphalt;;1340 m;schmal / einspurig;SS508;Sterzing / Sarnthein
+Perchauer Sattel;Alpen;;AT;Steiermark;995 m;;Asphalt;;280 m;zweispurig;B317;Scheifling / Friesach
+Pfaffensattel;Alpen;;AT;Steiermark;1372 m;;Asphalt;;610 m;zweispurig;L117;Steinhaus / Rettenegg
+Pian della Fuqazze;Alpen;;IT;Trentino / Venetien;1163 m;;Asphalt;;980 m;zweispurig;SS46;Rovereto / Vicenza
+Pichlhöhe;Alpen;;AT;Steiermark;980 m;;Asphalt;;320 m;zweispurig;L104;Mürzsteg / Veitsch
+Pielachtaler Gscheid;Alpen;;AT;Niederösterreich;841 m;;Asphalt;;450 m;zweispurig;L107;Frankenfels / Kirchberg
+Pillerhöhe;Alpen;;AT;Tirol;1559 m;;Asphalt;;740 m;zweispurig;L10;Fließ / Wenns
+Pisweger Sattel;Alpen;;AT;Kärnten;960 m;;Asphalt;;480 m;zweispurig;L67;Gurk / St. Veit
+Plöckenpass;Alpen;;AT / IT;Kärnten / Friaul-Julisch Venetien;1357 m;;Asphalt;;220 m;zweispurig;B110 / SS52;Kötschach / Timau
+Podbrdo;Alpen;;SI;Goriška;520 m;;Asphalt;;220 m;zweispurig;403;Grahovo / Podbrdo
+Pogusch;Alpen;;AT;Steiermark;1059 m;;Asphalt;;790 m;zweispurig;L118;St. Lorenzen / Turnau
+Pordoijoch;Alpen;;IT;Südtirol / Venetien;2239 m;;Asphalt;;1090 m;zweispurig;SR48;Canazei / Arabba
+Pragelpass;Alpen;;CH;Schwyz / Glarus;1550 m;;Asphalt;;580 m;zweispurig;388;Muotathal / Netstal
+Preiner Gscheid;Alpen;;AT;Niederösterreich / Steiermark;1070 m;;Asphalt;;530 m;zweispurig;L135;Reichenau / Kapellen
+Pretalsattel;Alpen;;AT;Steiermark;1069 m;;Asphalt;;780 m;zweispurig;L114;Veitsch / Wartberg
+Präbersattel;Alpen;;AT;Steiermark / Salzburg;1550 m;;Asphalt;;680 m;zweispurig;L262;Murau / Tamsweg
+Präbichl;Alpen;;AT;Steiermark;1226 m;;Asphalt;;190 m;zweispurig;B115;Vordernberg / Eisenerz
+Punt dall Gall;Alpen;;CH / IT;Graubünden / Lombardei;1809 m;;Asphalt;;310 m;zweispurig;H28 / SS301;Zernez / Livigno
+Pyrnpass;Alpen;;AT;Oberösterreich / Steiermark;954 m;;Asphalt;;420 m;schmal / einspurig;B138;Spital / Liezen
+Pöllauer Sattel;Alpen;;AT;Steiermark / Kärnten;1230 m;;Asphalt;;480 m;schmal / einspurig;L522;Neumarkt / Friesach
+Pötschenpass;Alpen;;AT;Oberösterreich / Steiermark;992 m;;Asphalt;;320 m;zweispurig;B145;Bad Goisern / Bad Aussee
+Radlpass;Alpen;;AT / SI;Steiermark / Koroška;662 m;;Asphalt;;180 m;zweispurig;B76 / 1;Wies / Radlje
+Radstatthöhe;Alpen;;AT;Salzburg;870 m;;Asphalt;;280 m;schmal / einspurig;B99;Altenmarkt / Radstadt
+Radstädter Tauern (Obertauern);Alpen;;AT;Salzburg;1738 m;;Asphalt;;920 m;schmal / einspurig;B99;Radstadt / Mauterndorf
+Rampe Foza;Alpen;;IT;Venetien;1083 m;;Asphalt;;360 m;zweispurig;SP76;Valstagna / Foza
+Ramssattel;Alpen;;AT;Niederösterreich;823 m;;Asphalt;;380 m;zweispurig;L134;Gloggnitz / Kirchberg
+Raten;Alpen;;CH;Zug;1077 m;;Asphalt;;480 m;schmal / einspurig;381;Oberägeri / Biberbrugg
+Rechberg;Alpen;;AT;Steiermark;929 m;;Asphalt;;410 m;zweispurig;B64;Frohnleiten / Passail
+Rengg;Alpen;;CH;Luzern;959 m;;Asphalt;;620 m;zweispurig;361;Entlebuch / Schachen
+Reschenpass;Alpen;;AT / IT;Tirol / Südtirol;1507 m;;Asphalt;;340 m;zweispurig;B180 / SS40;Nauders / Mals
+Ricken;Alpen;;CH;St. Gallen;790 m;;Asphalt;;620 m;zweispurig;8;Wattwil / Uznach
+Riederbergpass;Alpen;;AT;Niederösterreich;384 m;;Asphalt;;290 m;zweispurig;B1;Purkersdorf / Tulln
+Rohrer Sattel;Alpen;;AT;Niederösterreich;864 m;;Asphalt;;350 m;zweispurig;B21;Gutenstein / Rohr im Gebirge
+Ruppenpass;Alpen;;CH;Appenzell Ausserrhoden / St. Gallen;1003 m;;Asphalt;;320 m;schmal / einspurig;130;Altstätten / Trogen
+San Pietro, Culmine;Alpen;;IT;Lombardei;1258 m;;Asphalt;;620 m;zweispurig;SP221;Lecco / Stazzona
+Sattelegg;Alpen;;CH;Schwyz;1190 m;;Asphalt;;280 m;zweispurig;390;Siebnen / Willerzell
+Schaflingerhöhe;Alpen;;AT;Niederösterreich;780 m;;Asphalt;;710 m;zweispurig;L135;Puchberg / St. Corona
+Schaidasattel, Hochobier;Alpen;;AT;Kärnten;1068 m;;Asphalt;;780 m;zweispurig;L108;Bad Eisenkappel / Zell
+Schallenbergpass;Alpen;;CH;Bern;1167 m;;Asphalt;;850 m;schmal / einspurig;229;Steffisburg / Oberei
+Schanzsattel;Alpen;;AT;Steiermark;1171 m;;Asphalt;;510 m;zweispurig;L114;St. Barbara / Birkfeld
+Scheidegger Steige;Alpen;;DE;Bayern;810 m;;Asphalt;;690 m;zweispurig;B308;Lindenberg / Scheidegg
+Schermoossattel;Alpen;;IT;Südtirol;1428 m;;Asphalt;;1210 m;zweispurig;SP98;Mölten / Jenesien
+Schloffereck -Kreuzwirt;Alpen;;AT;Steiermark;950 m;;Asphalt;;390 m;zweispurig;L353;Birkfeld / Miesenbach
+Schnepfegg;Alpen;;AT;Vorarlberg;890 m;;Asphalt;;610 m;zweispurig;L28;Mellau / Bizau
+Schwarzbachwacht;Alpen;;DE;Bayern;868 m;;Asphalt;;280 m;zweispurig;B305;Berchtesgaden / Inzell
+Schwarzbühel;Alpen;;AT;Niederösterreich;820 m;;Asphalt;;320 m;zweispurig;L136;Kirchberg / Lilienfeld
+Schwarzenbichl;Alpen;;AT;Niederösterreich;840 m;;Asphalt;;380 m;zweispurig;L137;Gaming / Lunz
+Schöckelkreuz;Alpen;;AT;Steiermark;1125 m;;Asphalt;;720 m;schmal / einspurig;L352;St. Radegund / Semriach
+Schöfftaler Höhe;Alpen;;AT;Niederösterreich;790 m;;Asphalt;;660 m;zweispurig;L138;Scheibbs / Purgstall
+Seebergsattel (Seewiesen);Alpen;;AT;Steiermark;1254 m;;Asphalt;;680 m;zweispurig;B20;Kapfenberg / Mariazell
+Seebergsattel - Kokra;Alpen;;SI / IT;Koroška / Friaul-Julisch Venetien;1218 m;;Asphalt;;430 m;zweispurig;210 / SS54;Bad Eisenkappel / Jezersko
+Seiser Alm(Stichstraße);Alpen;;IT;Südtirol;1850 m;;Asphalt;;760 m;zweispurig;Sonderstraße;Kastelruth / Compatsch
+Sella Cerischiatis;Alpen;;IT;Friaul-Julisch Venetien;916 m;;Asphalt;;460 m;zweispurig;SP112;Pontebba / Chiusaforte
+Sella Chianzutan;Alpen;;IT;Friaul-Julisch Venetien;955 m;;Asphalt;;580 m;schmal / einspurig;SP1;Tolmezzo / Verzegnis
+Sella del Monte Zoncolan;Alpen;;IT;Friaul-Julisch Venetien;1750 m;;Asphalt;;420 m;zweispurig;SP123;Ovaro / Sutrio
+Sella della Croce;Alpen;;IT;Friaul-Julisch Venetien;830 m;;Asphalt;;620 m;zweispurig;SP114;Paularo / Arta Terme
+Sella di Andalo;Alpen;;IT;Trentino;1040 m;;Asphalt;;810 m;zweispurig;SS421;Mezzolombardo / Molveno
+Sella di Interneppo;Alpen;;IT;Friaul-Julisch Venetien;550 m;;Asphalt;;810 m;zweispurig;SP36;Bordano / Gemona
+Sella di Rioda (Sauris);Alpen;;IT;Friaul-Julisch Venetien;1800 m;;Asphalt;;920 m;schmal / einspurig;SP73;Sauris / Casera Razzzo
+Sella di Sereda;Alpen;;IT;Friaul-Julisch Venetien;850 m;;Asphalt;;820 m;zweispurig;SP115;Tolmezzo / Ampezzo
+Sella di Viqnola;Alpen;;IT;Trentino;1410 m;;Asphalt;;510 m;schmal / einspurig;SP132;Polsa / Brentonico
+Sella Nevea (Neveasattel);Alpen;;IT;Friaul-Julisch Venetien;1190 m;;Asphalt;;710 m;zweispurig;SP76;Chiusaforte / Tarvisio
+Sella s. Antonio/ Na Privale, Nimis bis Kobarid;Alpen;;SI / IT;Goriška / Friaul-Julisch Venetien;790 m;;Asphalt;;1130 m;zweispurig;601;Nimis / Kobarid
+Sella Valcalda;Alpen;;IT;Friaul-Julisch Venetien;950 m;;Asphalt;;880 m;zweispurig;SS52bis;Ravascletto / Sutrio
+Sella-Joch;Alpen;;IT;Südtirol / Trentino;2218 m;;Asphalt;;240 m;zweispurig;SS242;Wolkenstein / Canazei
+Selletta di Cantul;Alpen;;IT;Friaul-Julisch Venetien;980 m;;Schotter;;680 m;zweispurig;SP116;Moggio Udinese / Resiutta
+Selletta di Colle Botto;Alpen;;IT;Lombardei;1210 m;;Schotter;;920 m;zweispurig;SP28;Aviatico / Selvino
+Semmeringpass;Alpen;;AT;Niederösterreich / Steiermark;985 m;;Asphalt;;620 m;zweispurig;B17;Gloggnitz / Mürzzuschlag
+Sleme pri Zavodnje, Spodnje;Alpen;;SI;Savinjska;1080 m;;Asphalt;;710 m;schmal / einspurig;425;Šoštanj / Crna
+SLO GKST, Asphalt über I, Richtung süden;Alpen;;SI;Goriška;950 m;;Asphalt / Schotter;;610 m;zweispurig;609;Kobarid / Tolmin
+SLO GKST, Asphalt über I, Richtung süden 001;Alpen;;SI;Goriška;950 m;;Asphalt / Schotter;;650 m;schmal / einspurig;609;Kobarid / Tolmin
+Soboth;Alpen;;AT;Kärnten / Steiermark;1347 m;;Asphalt;;1090 m;zweispurig;B69;Lavamünd / Eibiswald
+Sommeralm;Alpen;;AT;Steiermark;1400 m;;Asphalt;;700 m;zweispurig;L353;Passail / Birkfeld
+Sp563 bis Caprile Verbindungsstraße  Falzerego zu Fedaia Pass;Alpen;;IT;Venetien;1020 m;;Asphalt;;690 m;zweispurig;SP563;Caprile / Digonera
+Splügenpass;Alpen;;CH / IT;Graubünden / Lombardei;2115 m;;Asphalt;;1780 m;zweispurig;H13 / SS36;Splügen / Chiavenna
+Stallersattel;Alpen;;AT / IT;Tirol / Südtirol;2052 m;;Asphalt;;940 m;einspurig (mit Ampelregelung);B108 / SP44;Huben / Olang
+Staulanzapass;Alpen;;IT;Venetien;1766 m;;Asphalt;;960 m;zweispurig;SP251;Forno di Zoldo / Selva di Cadore
+Steiglberg;Alpen;;AT;Oberösterreich;767 m;;Asphalt;;180 m;zweispurig;L508;Lohnsburg / Kobernaußen
+Stifserjoch;Alpen;;IT;Südtirol / Lombardei;2757 m;;Asphalt;;1847 m;zweispurig;SS38;Prad / Bormio
+Strada del Monte San Simeone Höhenstraße;Alpen;;IT;Friaul-Julisch Venetien;1210 m;;Asphalt;;910 m;ganz schmal / einspurig;SP36;Bordano / Monte San Simeone
+Straßegg ( Hochlantsch);Alpen;;AT;Steiermark;1163 m;;Asphalt;;580 m;zweispurig;L353;Gasen / Birkfeld
+Striegeleben, alte Soboth;Alpen;;AT;Kärnten / Steiermark;1180 m;;Asphalt / Schotter;;1080 m;zweispurig;L136;Lavamünd / Soboth
+Sudelfeldpass;Alpen;;DE;Bayern;1097 m;;Asphalt;;480 m;schmal / einspurig;B307;Bayrischzell / Oberaudorf
+Sustenpass;Alpen;;CH;Bern / Uri;2260 m;;Asphalt;;480 m;zweispurig;H11;Innertkirchen / Wassen
+Sölkpass;Alpen;;AT;Steiermark;1788 m;;Asphalt;;360 m;zweispurig;L704;Gröbming / Murau
+Talbacher Sattel;Alpen;;AT;Steiermark;1020 m;;Asphalt;;860 m;zweispurig;L114;Birkfeld / St. Kathrein
+Teichalm;Alpen;;AT;Steiermark;1170 m;;Asphalt;;520 m;schmal / einspurig;L353;Fladnitz / Breitenau
+Timmelsjoch;Alpen;;AT / IT;Tirol / Südtirol;2509 m;;Asphalt;;710 m;zweispurig;L15 / SS44bis;Sölden / St. Leonhard
+Tre Termini , Passo;Alpen;;IT;Lombardei;680 m;;Asphalt;;620 m;zweispurig;SP48;Iseo / Polaveno
+Triebener Tauern Pass;Alpen;;AT;Steiermark;1274 m;;Asphalt;;610 m;zweispurig;B114;Trieben / Judenburg
+Turracher Höhe;Alpen;;AT;Steiermark / Kärnten;1795 m;;Asphalt;;340 m;zweispurig;B95;Predlitz / Ebene Reichenau
+Tuskov gric;Alpen;;SI;Goriška;890 m;;Asphalt;;1110 m;schmal / einspurig;610;Cerkno / Idrija
+Ursprungpass;Alpen;;DE / AT;Bayern / Tirol;836 m;;Asphalt;;380 m;zweispurig;St2076 / L37;Bayrischzell / Thiersee
+Valico della Fricca;Alpen;;IT;Trentino;1098 m;;Asphalt;;630 m;zweispurig;SS349;Trento / Lavarone
+Valico di Salmezza (1106);Alpen;;IT;Lombardei;1106 m;;Asphalt;;480 m;zweispurig;SP28;Selvino / Aviatico
+Valico Poffa Rondenino;Alpen;;IT;Lombardei;1280 m;;Asphalt;;1120 m;zweispurig;SP345;Collio / Bagolino
+Valparola Pass;Alpen;;IT;Venetien;2168 m;;Asphalt;;510 m;schmal / einspurig;SP37;La Villa / Cortina
+Volovljek;Alpen;;SI;Savinjska;1029 m;;Asphalt;;540 m;zweispurig;225;Kamnik / Luce
+Vorberg;Alpen;;AT;Steiermark;980 m;;Asphalt;;530 m;zweispurig;L711;Ramsau / Schladming
+Vrsic Pass;Alpen;;SI;Goriška / Gorenjska;1611 m;;Asphalt;;310 m;zweispurig;206;Kranjska Gora / Bovec
+Wasserfluh;Alpen;;CH;St. Gallen;843 m;;Asphalt;;420 m;zweispurig;8;Lichtensteig / St. Peterzell
+Wastl am Wald;Alpen;;AT;Niederösterreich;1121 m;;Asphalt;;570 m;zweispurig;L102;Puchenstuben / Mariazell
+Wechsel;Alpen;;AT;Niederösterreich / Steiermark;1031 m;;Asphalt;;1160 m;schmal / einspurig;B54;Aspang / Pinggau
+Weinebene;Alpen;;AT;Kärnten / Steiermark;1668 m;;Asphalt;;280 m;zweispurig;L148;Wolfsberg / Deutschlandsberg
+Wetterluecke;Alpen;;CH;Bern;1280 m;;Asphalt;;640 m;zweispurig;361;Kandersteg / Frutigen
+Wieserhöhe;Alpen;;AT / SI;Kärnten / Koroška;1120 m;;Asphalt;;260 m;zweispurig;L81;Bleiburg / Prevalje
+Windische Höhe;Alpen;;AT;Kärnten;1110 m;;Asphalt;;990 m;zweispurig;L87;Hermagor / Nötsch
+Wissegg;Alpen;;AT;Niederösterreich;850 m;;Asphalt;;1847 m;zweispurig;L138;Gaming / Scheibbs
+Wolfgangpass;Alpen;;CH;Graubünden;1631 m;;Asphalt;;990 m;zweispurig;H28;Klosters / Davos
+Wurzenpass;Alpen;;AT / SI;Kärnten / Gorenjska;1073 m;;Asphalt;;320 m;zweispurig;B109 / 201;Villach / Kranjska Gora
+Würzerjoch;Alpen;;IT;Südtirol;2003 m;;Asphalt;;450 m;zweispurig;SP29;Brixen / St. Martin in Thurn
+Ybbsitzer Höhe;Alpen;;AT;Niederösterreich;740 m;;Asphalt;;740 m;zweispurig;L98;Ybbsitz / Waidhofen an der Ybbs
+Zellerrain;Alpen;;AT;Niederösterreich / Steiermark;1125 m;;Asphalt;;480 m;zweispurig;B71;Mariazell / Lunz am See
+Ziehberg;Alpen;;AT;Oberösterreich;700 m;;Asphalt;;220 m;zweispurig;L554;Micheldorf / Kirchdorf
+Ächerlipass;Alpen;;CH;Obwalden / Nidwalden;1458 m;;Asphalt;;560 m;ganz schmal / einspurig;382;Kernserhoch / Dallenwil
+Ötztaler Gletscherstraße (2798,16) , Hochsölden;Alpen;;AT;Tirol;2798 m;;Asphalt;;790 m;zweispurig;L19;Sölden / Rettenbachgletscher
+Ächerlipass (1458);Alpen;;CH;Obwalden / Nidwalden;1458 m;;Schotter;;1090 m;ganz schmal / einspurig;382;Kernserhoch / Dallenwil
